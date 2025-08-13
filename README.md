@@ -1,1 +1,3 @@
-# subrepo-demo-other-repo
+# Other Repository
+
+This is the other repository.
