@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:avcopan/subrepo-demo-other-repo.git
 	branch = main
-	commit = 6a20ba3781563c1b17bf7aa7728e2501c6e3a605
-	parent = 3acbc89684092583fda78e789dbf561bec283612
+	commit = fb09bcd2fec15e9c2cd9548534111c5465783821
+	parent = 41b84f8e9cdb0b8342d4bd7dee70a03d52e4ba2f
 	method = rebase
 	cmdver = 0.4.9
